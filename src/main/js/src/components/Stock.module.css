@@ -1,0 +1,8 @@
+.Stock {
+    margin: auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-shadow: 2px 0 #eee;
+    text-align: center;
+    padding: 10px;
+}
